@@ -1,0 +1,11 @@
+C:\Users\ucenik\Documents\zadatakVrijeme\bin\Debug\zadatakVrijeme.exe.config
+C:\Users\ucenik\Documents\zadatakVrijeme\bin\Debug\zadatakVrijeme.exe
+C:\Users\ucenik\Documents\zadatakVrijeme\bin\Debug\zadatakVrijeme.pdb
+C:\Users\ucenik\Documents\zadatakVrijeme\obj\Debug\zadatakVrijeme.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\zadatakVrijeme\obj\Debug\zadatakVrijeme.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\zadatakVrijeme\obj\Debug\zadatakVrijeme.Form1.resources
+C:\Users\ucenik\Documents\zadatakVrijeme\obj\Debug\zadatakVrijeme.Properties.Resources.resources
+C:\Users\ucenik\Documents\zadatakVrijeme\obj\Debug\zadatakVrijeme.csproj.GenerateResource.cache
+C:\Users\ucenik\Documents\zadatakVrijeme\obj\Debug\zadatakVrijeme.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\zadatakVrijeme\obj\Debug\zadatakVrijeme.exe
+C:\Users\ucenik\Documents\zadatakVrijeme\obj\Debug\zadatakVrijeme.pdb
